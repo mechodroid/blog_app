@@ -1,7 +1,6 @@
-# Astro Starter Kit: Minimal
+# Astro PROJECT
 
 
-blog app  link
-anvlog.netlify.app
+[blog app link](https://anvlog.netlify.app)
 
 
